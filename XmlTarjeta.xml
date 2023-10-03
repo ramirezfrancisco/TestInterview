@@ -1,0 +1,10 @@
+<tarjeta_credito>
+  <sistema>Nombre del sistema</sistema>
+  <localizacion>Localización</localizacion>
+  <numero_tarjeta>1234567890123456</numero_tarjeta>
+  <id_cliente>987654321</id_cliente>
+  <telefono>12345678</telefono>
+  <categoria_tarjeta>oro</categoria_tarjeta>
+  <saldo>2200</saldo>
+  <tipo_transaccion>2</tipo_transaccion>
+</tarjeta_credito>
